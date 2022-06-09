@@ -18,3 +18,4 @@ int main(){
         return 0;
 }
 /*hackerrank left rotation problem*/
+//but if we want to right rotation of an array then we have to do arr[(n-d+i+2)%n]=a;this thing
